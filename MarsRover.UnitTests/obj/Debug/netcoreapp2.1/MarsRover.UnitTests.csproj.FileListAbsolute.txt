@@ -1,0 +1,17 @@
+C:\Users\milena.vujcic\Source\repos\MarsRover\MarsRover.UnitTests\bin\Debug\netcoreapp2.1\MarsRover.UnitTests.deps.json
+C:\Users\milena.vujcic\Source\repos\MarsRover\MarsRover.UnitTests\bin\Debug\netcoreapp2.1\MarsRover.UnitTests.runtimeconfig.json
+C:\Users\milena.vujcic\Source\repos\MarsRover\MarsRover.UnitTests\bin\Debug\netcoreapp2.1\MarsRover.UnitTests.runtimeconfig.dev.json
+C:\Users\milena.vujcic\Source\repos\MarsRover\MarsRover.UnitTests\bin\Debug\netcoreapp2.1\MarsRover.UnitTests.dll
+C:\Users\milena.vujcic\Source\repos\MarsRover\MarsRover.UnitTests\bin\Debug\netcoreapp2.1\MarsRover.dll
+C:\Users\milena.vujcic\Source\repos\MarsRover\MarsRover.UnitTests\bin\Debug\netcoreapp2.1\MarsRover.pdb
+C:\Users\milena.vujcic\Source\repos\MarsRover\MarsRover.UnitTests\obj\Debug\netcoreapp2.1\MarsRover.UnitTests.csprojAssemblyReference.cache
+C:\Users\milena.vujcic\Source\repos\MarsRover\MarsRover.UnitTests\obj\Debug\netcoreapp2.1\MarsRover.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\milena.vujcic\Source\repos\MarsRover\MarsRover.UnitTests\obj\Debug\netcoreapp2.1\MarsRover.UnitTests.AssemblyInfoInputs.cache
+C:\Users\milena.vujcic\Source\repos\MarsRover\MarsRover.UnitTests\obj\Debug\netcoreapp2.1\MarsRover.UnitTests.AssemblyInfo.cs
+C:\Users\milena.vujcic\Source\repos\MarsRover\MarsRover.UnitTests\obj\Debug\netcoreapp2.1\MarsRover.UnitTests.csproj.CopyComplete
+C:\Users\milena.vujcic\Source\repos\MarsRover\MarsRover.UnitTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\milena.vujcic\Source\repos\MarsRover\MarsRover.UnitTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\milena.vujcic\Source\repos\MarsRover\MarsRover.UnitTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\milena.vujcic\Source\repos\MarsRover\MarsRover.UnitTests\bin\Debug\netcoreapp2.1\MarsRover.UnitTests.pdb
+C:\Users\milena.vujcic\Source\repos\MarsRover\MarsRover.UnitTests\obj\Debug\netcoreapp2.1\MarsRover.UnitTests.dll
+C:\Users\milena.vujcic\Source\repos\MarsRover\MarsRover.UnitTests\obj\Debug\netcoreapp2.1\MarsRover.UnitTests.pdb

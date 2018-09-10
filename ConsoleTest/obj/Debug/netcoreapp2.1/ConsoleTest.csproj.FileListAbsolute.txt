@@ -1,0 +1,13 @@
+C:\Users\milena.vujcic\Source\repos\MarsRover\ConsoleTest\bin\Debug\netcoreapp2.1\ConsoleTest.deps.json
+C:\Users\milena.vujcic\Source\repos\MarsRover\ConsoleTest\bin\Debug\netcoreapp2.1\ConsoleTest.runtimeconfig.json
+C:\Users\milena.vujcic\Source\repos\MarsRover\ConsoleTest\bin\Debug\netcoreapp2.1\ConsoleTest.runtimeconfig.dev.json
+C:\Users\milena.vujcic\Source\repos\MarsRover\ConsoleTest\bin\Debug\netcoreapp2.1\ConsoleTest.dll
+C:\Users\milena.vujcic\Source\repos\MarsRover\ConsoleTest\bin\Debug\netcoreapp2.1\ConsoleTest.pdb
+C:\Users\milena.vujcic\Source\repos\MarsRover\ConsoleTest\bin\Debug\netcoreapp2.1\MarsRover.dll
+C:\Users\milena.vujcic\Source\repos\MarsRover\ConsoleTest\bin\Debug\netcoreapp2.1\MarsRover.pdb
+C:\Users\milena.vujcic\Source\repos\MarsRover\ConsoleTest\obj\Debug\netcoreapp2.1\ConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\milena.vujcic\Source\repos\MarsRover\ConsoleTest\obj\Debug\netcoreapp2.1\ConsoleTest.AssemblyInfoInputs.cache
+C:\Users\milena.vujcic\Source\repos\MarsRover\ConsoleTest\obj\Debug\netcoreapp2.1\ConsoleTest.AssemblyInfo.cs
+C:\Users\milena.vujcic\Source\repos\MarsRover\ConsoleTest\obj\Debug\netcoreapp2.1\ConsoleTest.csproj.CopyComplete
+C:\Users\milena.vujcic\Source\repos\MarsRover\ConsoleTest\obj\Debug\netcoreapp2.1\ConsoleTest.dll
+C:\Users\milena.vujcic\Source\repos\MarsRover\ConsoleTest\obj\Debug\netcoreapp2.1\ConsoleTest.pdb
